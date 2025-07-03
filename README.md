@@ -11,4 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meiasuja53&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 
- ![Snake animation](https://github.com/meiasuja53/meiasuja53/blob/output/github-contribution-grid-snake.svg)
+<div>
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+</div>
