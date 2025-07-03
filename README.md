@@ -2,7 +2,7 @@
 
 
 - 👀 Atuando em **Infraestrutura** e cursando **Ciência da Computação**.
-- 🌱 Apaixonado em transformar ideias em insights.
+- 🌱 Apaixonado por transformar ideias em insights.
 - 🚀 Aprendizado contínuo é o meu motor.
 
 <div>
