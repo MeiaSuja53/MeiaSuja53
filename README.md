@@ -1,16 +1,14 @@
-## Hi there 👋
+  ### 💡 MeiaSuja53 | Infra 📈
 
-<!--
-**MeiaSuja53/MeiaSuja53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 👀 Atuando em **Infraestrutura** e cursando **Ciência da Computação**.
+- 🌱 Apaixonado em transformar ideias em insights.
+- 🚀 Aprendizado contínuo é o meu motor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/meiasuja53">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meiasuja53&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meiasuja53&layout=compact&langs_count=16&theme=synthwave"/>
+</div>
+
+ ![Snake animation](https://github.com/meiasuja53/meiasuja53/blob/output/github-contribution-grid-snake.svg)
